@@ -1,0 +1,13 @@
+# folders
+bin
+obj
+.vs
+.IdentityService
+
+ServiceDependencies
+
+#files
+*.user
+
+.vscode
+.vs
